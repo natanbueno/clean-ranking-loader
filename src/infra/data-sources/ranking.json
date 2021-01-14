@@ -1,0 +1,40 @@
+[{
+ "user": {
+	"country": "brazil",
+    "name": "Rodrigo Manguinho"
+  },
+  "heroes": [
+	{"name": "Fee","level": 30}, 
+	{"name": "Connie", "level": 23}, 
+	{"name": "Mabyn", "level": 27}
+  ],
+  "date": 1578625200000,
+  "score": 455
+ },
+ {
+ "user": {
+	"country": "Brazil",
+    "name": "Natan Ferreira"
+  },
+  "heroes": [
+	{"name": "Fee","level": 10}, 
+	{"name": "Connie", "level": 23}, 
+	{"name": "Mabyn", "level": 27}
+  ],
+  "date": 1578625200000,
+  "score": 500
+ },
+ {
+ "user": {
+	"country": "brazil",
+    "name": "EL PROGRAMER"
+  },
+  "heroes": [
+	{"name": "Fee","level": 30}, 
+	{"name": "Connie", "level": 23}, 
+	{"name": "Mabyn", "level": 27}
+  ],
+  "date": 1578625200000,
+  "score": 100
+ } 
+ ]
